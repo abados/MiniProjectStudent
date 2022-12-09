@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Projects\Semester2\ProjectStudent\ProjectStudent.DAL\bin\Debug\ProjectStudent.DAL.dll
+C:\Users\User\source\repos\Projects\Semester2\ProjectStudent\ProjectStudent.DAL\bin\Debug\ProjectStudent.DAL.pdb
+C:\Users\User\source\repos\Projects\Semester2\ProjectStudent\ProjectStudent.DAL\obj\Debug\ProjectStudent.DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Projects\Semester2\ProjectStudent\ProjectStudent.DAL\obj\Debug\ProjectStudent.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Semester2\ProjectStudent\ProjectStudent.DAL\obj\Debug\ProjectStudent.DAL.dll
+C:\Users\User\source\repos\Projects\Semester2\ProjectStudent\ProjectStudent.DAL\obj\Debug\ProjectStudent.DAL.pdb
